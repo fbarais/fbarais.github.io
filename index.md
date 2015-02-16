@@ -2,7 +2,7 @@
 layout: page
 permalink: /index.html
 title: Bienvenue
-headline: Joueur de Volley Porfessionnel Saint-Nazaire Volley Ball Atlantique 
+headline: Joueur de Volley Porfessionnel Saint-Nazaire Volley Ball Atlantique
 tags: [Accueil]
 ---
 Bienvenue sur le site de [Frédéric Barais, joueur professionnel](http://www.lnv.fr/joueurs/1191/frederic-barais.html)  au club de [Saint-Nazaire Volley Ball Atlantique](http://www.snvba.net). Ce site propose principalemement sept types d'information :
