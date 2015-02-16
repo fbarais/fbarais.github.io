@@ -13,7 +13,7 @@ share: true
 
 
 Ouvrez [stackedit](https://stackedit.io/editor) dans votre navigateur.
-Quand vous arrivez sur l'éditeur cliquez en haut à gauche et sélectionnez **Import from URL** et mettez l'URL suivante [https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/templates/_2015-02-01-template-blog.md](https://raw.githubusercontent.com/fbarais/fred.github.io/master/docs/templates/_2015-02-01-template-blog.md).
+Quand vous arrivez sur l'éditeur cliquez en haut à gauche et sélectionnez **Import from URL** et mettez l'URL suivante [https://raw.githubusercontent.com/fbarais/fred.github.io/master/docs/templates/_2015-02-01-template-blog.md](https://raw.githubusercontent.com/fbarais/fred.github.io/master/docs/templates/_2015-02-01-template-blog.md).
 
 A partir de là, vous pouvez éditez votre post de blog à l'aide de la syntaxe markdown. L'éditeur vous fournit une aide. Le début du fichier contient les méta-données de votre site à savoir:
 

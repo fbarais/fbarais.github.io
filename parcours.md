@@ -3,9 +3,9 @@ layout: page
 permalink: /parcours/index.html
 title: Parcours
 tags: [Parcours]
-image:
+imagefeature: albert-einstein-2068-hd-wallpapers.jpg
 ---
-# Cursus Scolaire 
+# Cursus Scolaire
 
 ##2005-2008 **Lycee Jean Mermoz 	Montpellier, France**
 
@@ -25,7 +25,7 @@ image:
 - Volleyeur professionnel au Saint Nazaire Volley Ball Atlantique ( 1 ère division ) 1 ans.
 - Volleyeur professionnel à L’ARAGO de Sète ( 1 ère division ) 5 ans.
 - International -19 –21 .
-- Nombreuses compétition international et expériences a l’étranger .
+- Nombreuses compétitions internationales et expériences a l’étranger .
 
 ----
 
