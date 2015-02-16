@@ -3,7 +3,7 @@ layout: page
 permalink: /palmares/index.html
 title: Palmares
 tags: [Palmares]
-image:
+imagefeature: default_bg4.jpg
 ---
 
 [Joueur français de volley-ball](http://www.lnv.fr/joueurs/1191/frederic-barais.html), né le 10 décembre 1989. Je mesure 1,88 m et joue réceptionneur-attaquant.
