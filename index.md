@@ -9,8 +9,8 @@ Bienvenue sur le site de [Frédéric Barais, joueur professionnel](http://www.ln
 
 * Mon [palmares](/palmares).
 * Mon [CV](/parcours).
-* Quelques [liens](/liens) pour les résultats des championnats et uploader les résultats des matches.
 * Quelques [photos](/photos) en souvenir
 * Quelques [vidéos](/videos)
 * Le plan pour trouver la [salle](/salle) pour venir nous supporter ;).  
 * Un [blog](/blog) pour partager quelques news, photos et vidéos.
+* Quelques [liens](/liens).
