@@ -1,7 +1,7 @@
 title:            Frédéric Barais
 description:      "Site Web de Frédéric Barais (Volleyeur Saint Nazaire Volley Ball)"
 logo:             omikron.png
-disqus_shortname: fred.barais
+disqus_shortname: fredbarais
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
