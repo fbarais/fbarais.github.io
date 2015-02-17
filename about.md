@@ -7,6 +7,7 @@ image:
   feature: sangeh-monkey-forest-10.jpg
 ---  
 Frédéric Barais
+
 - [f.barais@gmail.com](mailto:f.barais@gmail.com)
 - Nationalité: Française
 - Date de naissance: 10/12/1989
