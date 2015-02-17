@@ -27,6 +27,10 @@ Quelques photos souvenirs
 <a href="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"><img src="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"></a>
 </figure>
 
+<figure  class="half">
+<a href="{{ site.url }}/images/photos/./20120621_142056.jpg"><img src="{{ site.url }}/images/photos/./20120621_142056.jpg"></a>
+<a href="{{ site.url }}/images/photos/./CHP_0103.jpg"><img src="{{ site.url }}/images/photos/./CHP_0103.jpg"></a>
+</figure>
 
 #Saison 1
 
@@ -819,6 +823,6 @@ Quelques photos souvenirs
 <a href="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(52).jpg"><img src="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(52).jpg"></a>
 <a href="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(82).jpg"><img src="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(82).jpg"></a>
 </figure>
-<figure  class="third">
+<figure >
 <a href="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(68).jpg"><img src="{{ site.url }}/images/photos/./CEV_cup_CROATIE_ocijek/Osijek(68).jpg"></a>
 </figure>
