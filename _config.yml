@@ -52,6 +52,9 @@ links:
     url: /
     external: false
     icon: home
+  - title: Blog
+    url: /blog
+    external: false
   - title: Mon palmares
     url: /palmares
   - title: Mon parcours
@@ -66,9 +69,6 @@ links:
     url: /salle
   - title: <i class="icon-book"></i> Documentation
     url: /documentation
-  - title: Blog
-    url: /blog
-    external: false
   - title: Catégories
     url: /categories
   - title: Tags
