@@ -1,5 +1,5 @@
 ---
-layout: pageminimal
+layout: page
 title: "About Page"
 permalink: /about/index.html
 description: "About"
