@@ -5,7 +5,7 @@ title: Bienvenue
 headline: Joueur de Volley Professionnel Saint-Nazaire Volley Ball Atlantique
 tags: [Accueil]
 ---
-Bienvenue sur mon site, je suis [joueur professionnel](http://www.lnv.fr/joueurs/1191/frederic-barais.html)  au club de [Saint-Nazaire Volley Ball Atlantique](http://www.snvba.net). Ce site propose principalemement sept types d'information :
+Bienvenue sur mon site, je suis [joueur professionnel](http://www.lnv.fr/joueurs/1191/frederic-barais.html)  au club de [Saint-Nazaire Volley Ball Atlantique](http://www.snvba.net). Ce site propose principalemement sept types d'information.
 
 * Mon [palmares](/palmares).
 * Mon [CV](/parcours).
