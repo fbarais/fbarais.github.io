@@ -24,7 +24,7 @@ Quelques photos souvenirs
 </figure>
 
 
-<figure  class="half>
+<figure  class="half">
 <a href="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"><img src="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"></a>
 <a href="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"><img src="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"></a>
 </figure>
