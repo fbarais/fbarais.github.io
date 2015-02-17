@@ -23,12 +23,9 @@ Quelques photos souvenirs
 	<a href="{{ site.url }}/images/default_bg4.jpg"><img src="{{ site.url }}/images/default_bg4.jpg"></a>
 </figure>
 
-<figure>
-<a href="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"><img src="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"></a>
-</figure>
 
-<figure  class="half">
-<a href="{{ site.url }}/images/photos/Profile/20120621_142056.jpg"><img src="{{ site.url }}/images/photos/Profile/20120621_142056.jpg"></a>
+<figure  class="half>
+<a href="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"><img src="{{ site.url }}/images/photos/ScrapbookPhotos/CHP_0091.jpg"></a>
 <a href="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"><img src="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"></a>
 </figure>
 
