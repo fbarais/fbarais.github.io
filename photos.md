@@ -28,8 +28,8 @@ Quelques photos souvenirs
 </figure>
 
 <figure  class="half">
-<a href="{{ site.url }}/images/photos/./20120621_142056.jpg"><img src="{{ site.url }}/images/photos/./20120621_142056.jpg"></a>
-<a href="{{ site.url }}/images/photos/./CHP_0103.jpg"><img src="{{ site.url }}/images/photos/./CHP_0103.jpg"></a>
+<a href="{{ site.url }}/images/photos/Profile/20120621_142056.jpg"><img src="{{ site.url }}/images/photos/Profile/20120621_142056.jpg"></a>
+<a href="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"><img src="{{ site.url }}/images/photos/Profile/CHP_0103.jpg"></a>
 </figure>
 
 #Saison 1
